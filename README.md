@@ -14,7 +14,7 @@ yarn
 yarn setup
 ```
 
-## Start server
+## Serveur de démarrage
 
 ```shell
 yarn start
