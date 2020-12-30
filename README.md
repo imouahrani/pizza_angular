@@ -1,7 +1,7 @@
 # Angular Pizza  
 
 
-![Pizza](pizza.png)
+![Pizza](Pizza.png)
 
 ## Installation
 
