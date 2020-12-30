@@ -4,7 +4,7 @@
 
 ![Pizza](pizza.png)
 
-## Install
+## Installation
 
 ```shell
 yarn
@@ -20,7 +20,7 @@ yarn setup
 yarn start
 ```
 
-## Develop
+## Developpement
 
 Interested in changing code? Check out [DEVELOPMENT.md](DEVELOPMENT.md)
 
