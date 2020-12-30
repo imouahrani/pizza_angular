@@ -1,6 +1,5 @@
 # Angular Pizza  
 
-> Check out the [live demo](https://toddmotto.com/angular-pizza-creator/)
 
 ![Pizza](pizza.png)
 
